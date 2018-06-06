@@ -15,10 +15,6 @@ git remote add origin ssh://root@192.168.1.22:2222/sunlinghuan/Stest.git
 
 
 
-<<<<<<< HEAD
-然后： git push -u origin master 这里就开始准备提交到网络上了，hahahahahahaha
 
-111111111111
-=======
 然后： git push -u origin master 这里就开始准备提交到网络上了，
->>>>>>> master
+
